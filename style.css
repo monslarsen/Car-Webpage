@@ -1,0 +1,51 @@
+body{ 
+    background-image: url(background.jpg);
+    background-size: contain;
+}
+
+#bigheader{
+    font-size: 3em;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+}
+
+.cartype, .spec, #bigheader{
+    text-align: center;
+}
+
+.spec{
+    font-size: 1.4em;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    font-family: 'Ubuntu', sans-serif;
+    margin: auto auto 10px auto;
+    width: 87%;
+    border-radius: 10px;
+    padding: 10px 0px;
+    color: white;
+    text-align: center;
+    background-color: rgb(30, 30, 30);
+}
+
+#webdevelopment{
+    color: rgb(50, 50, 50);
+    margin-top: -10px;
+}
+
+.copyright{
+    font-size: 0.8em;
+    color: rgb(25, 25, 25);
+    margin-top: 1px;
+    margin-bottom: -5px;
+}
